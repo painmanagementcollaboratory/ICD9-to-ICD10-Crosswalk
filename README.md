@@ -1,6 +1,6 @@
 # Pain Management Collaboratory Adopted ICD9 to ICD10 Crosswalk
 
-Adopted from @PainResearch, with their description of this repository included below.
+Adopted from <a href = "https://github.com/PainResearch/PainCondition_ICD9CM_ICD10CM_Crosswalk">@PainResearch</a>, with their description of this repository included below.
 
 <hr>
 
